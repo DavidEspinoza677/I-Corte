@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|c:\\users\\itsda\\desktop\\corte 1\\corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|c:\\users\\itsda\\desktop\\corte 1\\corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|c:\\users\\itsda\\desktop\\corte 1\\corte1\\corte1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|solutionrelative:corte1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|c:\\users\\itsda\\desktop\\corte 1\\corte1\\corte1\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|solutionrelative:corte1\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|c:\\users\\itsda\\desktop\\corte 1\\corte1\\corte1\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8C1D1-97E5-42E9-A01C-C31C86D70B54}|Corte1\\Corte1.csproj|solutionrelative:corte1\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Operacion.cs",
+              "RelativeDocumentMoniker": "Corte1\\Operacion.cs",
+              "ToolTip": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Operacion.cs",
+              "RelativeToolTip": "Corte1\\Operacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:15.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Registro.cs",
+              "RelativeDocumentMoniker": "Corte1\\Registro.cs",
+              "ToolTip": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Registro.cs",
+              "RelativeToolTip": "Corte1\\Registro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:04.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Persona.cs",
+              "RelativeDocumentMoniker": "Corte1\\Persona.cs",
+              "ToolTip": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Persona.cs",
+              "RelativeToolTip": "Corte1\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:51.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Form1.cs",
+              "RelativeDocumentMoniker": "Corte1\\Form1.cs",
+              "ToolTip": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Form1.cs",
+              "RelativeToolTip": "Corte1\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:41:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Form1.cs",
+              "RelativeDocumentMoniker": "Corte1\\Form1.cs",
+              "ToolTip": "C:\\Users\\itsda\\Desktop\\Corte 1\\Corte1\\Corte1\\Form1.cs [Design]",
+              "RelativeToolTip": "Corte1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:17.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
